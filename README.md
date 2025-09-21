@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 🐥
 
 <!--
 **PrachiJaipuria/PrachiJaipuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Use Markdown to tell us a little bit about yourself. Specifically, tell us:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+your name
+a photo of you
+year
+major
+why you enrolled in this course
+what got you interested in neuroscience /or psychology
+what your career plans are (or post-graduation plans, if you haven't figured that out yet!)
+
