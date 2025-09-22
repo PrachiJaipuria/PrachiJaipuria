@@ -1,7 +1,7 @@
 # Hi there! 🐣
 # I'm Prachi, Welcome to my repository 😃
 ## Here is a little bit about me...
-! 
+![This is me] (89C30F35-57FF-44D7-ADFB-91B4ED22196F_1_102_o.jpeg) 
 ###
 <!--
 **PrachiJaipuria/PrachiJaipuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
