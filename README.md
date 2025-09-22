@@ -1,6 +1,6 @@
 # Hi there! 🐣
 ## I'm Prachi, Welcome to my repository 😋...
-![📸] ([89C30F35-57FF-44D7-ADFB-91B4ED22196F_1_102_o.jpeg](https://github.com/PrachiJaipuria/PrachiJaipuria/blob/main/89C30F35-57FF-44D7-ADFB-91B4ED22196F_1_102_o.jpeg)) 
+![📸]([89C30F35-57FF-44D7-ADFB-91B4ED22196F_1_102_o.jpeg](https://github.com/PrachiJaipuria/PrachiJaipuria/blob/main/89C30F35-57FF-44D7-ADFB-91B4ED22196F_1_102_o.jpeg)) 
 
 ### 🧠👩🏾‍🔬I am currently in my *final year* for *Biochemistry and Neuroscience* 
 
